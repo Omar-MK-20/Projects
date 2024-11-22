@@ -1,0 +1,16 @@
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\bin\Debug\Digital_Clock.exe.config
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\bin\Debug\Digital_Clock.exe
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\bin\Debug\Digital_Clock.pdb
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.csproj.AssemblyReference.cache
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.csproj.SuggestedBindingRedirects.cache
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.Form1.resources
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.csproj.GenerateResource.cache
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.csproj.CoreCompileInputs.cache
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.exe
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.pdb
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.Form2.resources
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\bin\Debug\Digital_Clock.exe.manifest
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\bin\Debug\Digital_Clock.application
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.exe.manifest
+D:\Omar MK\Documents\Projects\Repos\Digital_Clock\obj\Debug\Digital_Clock.application
