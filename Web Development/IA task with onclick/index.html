@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>O.M Care</title>
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            O.M Care
+        </div>
+        <div class="links">
+            <ul id="links">
+                <i class="fas fa-times" id="time" onclick="hideMenu()"></i>
+                <li><a href="#">Hospitals</a></li>
+                <li><a href="#">Doctors</a></li>
+                <li><a href="#">Senior Care</a></li>
+                <li><a href="#">Conditions</a></li>
+                <li><a href="#">Contact us</a></li>
+            </ul>
+        </div>
+    </nav>
+    <i class="fas fa-bars" id="bar" onclick="showMenu()"></i>
+
+    <div class="content">
+        <header>
+            <div class="header-text">
+                <h1>
+                    <span>O.M Care</span><br>
+                    Best Hospitals
+                </h1>
+                <p>Helping patients and families find the best healthcare for more than 30 years.</p>
+                <a href="#">Find Your Doctor</a>
+            </div>
+        </header>
+    </div>
+
+    <script>
+        var navlinks = document.getElementById("links")
+        var bar = document.getElementById("bar")
+        var time = document.getElementById("time")
+
+        function showMenu()
+        {
+            navlinks.style.left="0";
+            bar.style.opacity="0";
+        
+        }
+
+        function hideMenu()
+        {
+            navlinks.style.left="-100px";
+            bar.style.opacity="1";
+        }
+
+    </script>
+    
+</body>
+</html>
