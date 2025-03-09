@@ -1,3 +1,6 @@
+# this is an app that shows the current time and and its equivalent in the Hijri calendar
+# ==================================================================
+
 import customtkinter as ctk
 from astral import LocationInfo
 from astral.sun import sun
